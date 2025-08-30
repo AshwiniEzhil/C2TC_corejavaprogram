@@ -5,7 +5,7 @@ public class SynchronizationDemo {
 
 	public static void main(String[] args) {
 
-		Account acc = new Account(101, "Amit", 50000);
+		Account acc = new Account(101, "Amit", 50000); 
 		System.out.println(acc);
 
 		// Five account threads running parallel and sharing same resource
