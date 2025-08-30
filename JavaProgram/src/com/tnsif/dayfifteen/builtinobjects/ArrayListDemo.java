@@ -1,5 +1,5 @@
 //Program to demonstrate ArrayList
-package com.tnisf.dayfifteen.builtinobjects;
+package com.tnsif.dayfifteen.builtinobjects;
 
 import java.util.ArrayList;
 import java.util.Collections;

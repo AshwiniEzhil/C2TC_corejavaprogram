@@ -1,5 +1,5 @@
 //Program to demonstrate LinkedList class
-package com.tnisf.dayfifteen.builtinobjects;
+package com.tnsif.dayfifteen.builtinobjects;
 
 import java.util.Collections;
 import java.util.LinkedList;

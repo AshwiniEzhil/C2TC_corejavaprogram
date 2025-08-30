@@ -1,6 +1,6 @@
 
 //Driver Program for lower bound wild card
-package com.tnisf.dayfifteen.generics;
+package com.tnsif.dayfifteen.generics;
 
 import java.util.Arrays;
 import java.util.List;

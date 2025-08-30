@@ -1,6 +1,6 @@
 //Program to demonstrate Student entity using Comparable interface
 
-package com.tnisf.dayfifteen.userdefinedobjects.comparableandcomparator;
+package com.tnsif.dayfifteen.userdefinedobjects.comparableandcomparator;
 
 public class Student implements Comparable<Student> 
 {

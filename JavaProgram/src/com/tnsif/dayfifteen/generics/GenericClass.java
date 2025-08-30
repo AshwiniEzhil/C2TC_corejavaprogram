@@ -1,5 +1,5 @@
 //Program to demonstrate user defined generic class
-package com.tnisf.dayfifteen.generics;
+package com.tnsif.dayfifteen.generics;
 
 //Generic Class
 class GenericClass<T>

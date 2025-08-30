@@ -1,5 +1,5 @@
 //Program to demonstrate generic interface
-package com.tnisf.dayfifteen.generics;
+package com.tnsif.dayfifteen.generics;
 
 //Generic Class implements Generic Interface (MinMax)
 public class MinMaxImpl<T extends Comparable<T>> implements MinMax<T> {

@@ -1,5 +1,5 @@
 // Program to demonstrate Lambda expression in collections
-package com.tnisf.dayfifteen.userdefinedobjects;
+package com.tnsif.dayfifteen.userdefinedobjects;
 
 import java.util.ArrayList;
 import java.util.Collections;

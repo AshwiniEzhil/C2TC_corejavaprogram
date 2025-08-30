@@ -1,6 +1,6 @@
 //Program to demonstrate Person entity using Comparator interface
 
-package com.tnisf.dayfifteen.userdefinedobjects.comparableandcomparator;
+package com.tnsif.dayfifteen.userdefinedobjects.comparableandcomparator;
 
 import java.util.Comparator;
 

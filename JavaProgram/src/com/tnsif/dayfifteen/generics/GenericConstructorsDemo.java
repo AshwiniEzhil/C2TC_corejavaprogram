@@ -1,5 +1,5 @@
 //Driver Program for generic constructors
-package com.tnisf.dayfifteen.generics;
+package com.tnsif.dayfifteen.generics;
 
 public class GenericConstructorsDemo {
 
